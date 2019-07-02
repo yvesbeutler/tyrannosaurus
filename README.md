@@ -6,6 +6,7 @@ Collection of anything I came across in the large field of data science.
 
 ```
 .
+├── data                     # A place for all your datasets
 ├── docs                     # Documentation
 │   ├── maths                # Short description of mathematical concepts
 │   ├── python               # Short description of python language features
